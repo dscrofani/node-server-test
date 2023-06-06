@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.5.0"
+  },
+  "name": "myfirstwebapp",
+  "version": "1.0.0",
+  "description": "This is a test app to show how node works",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "D.Scrofani",
+  "license": "ISC"
+}
